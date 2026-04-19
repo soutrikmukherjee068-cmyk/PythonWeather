@@ -51,8 +51,7 @@
 
 1. Clone the repository
 
-git clone https://github.com/your-username/encryption-advance.git
-cd encryption-advance
+git clone "repo url"
 
 2. Install dependencies
 
@@ -64,7 +63,7 @@ pip install requests
 
 Run the script:
 
-python weather.py
+python pyweather.py
 
 Then enter a city:
 
@@ -82,15 +81,13 @@ Then enter a city:
 📁 Project Structure
 
 📦 weather-app
- ┣ 📜 weather.py
+ ┣ 📜 pyweather.py
  ┗ 📜 README.md
 
 ---
 
 💡 Future Improvements
-
-- 🌐 GUI version (Tkinter / Web App)
-- 📱 Mobile-friendly interface
+- ❤️ GUI integration
 - 🌎 Location auto-detection
 - 📊 Graphical weather charts
 - 🔔 Weather alerts system
@@ -99,7 +96,6 @@ Then enter a city:
 
 🤝 Contributing
 
-Pull requests are welcome!
 If you have ideas to improve this project, feel free to fork and contribute.
 
 ---
