@@ -1,5 +1,5 @@
 # PythonWeather
-🌤️ Weather Forecast Terminal App
+🌤️ Weather Forecast Terminal Based Output
 
 «A beautiful and feature-rich Python CLI Weather App that provides real-time weather updates and a 7-day forecast using live API data.»
 
